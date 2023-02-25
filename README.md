@@ -1,6 +1,6 @@
 # django
-<p> Django is a high-level Python web framework that encourages rapid development and clean, pragmatic design.
-<br> Django is a Python web framework <br> It is a  open source pyhton framework. <br> follow the model-view-tamplate architectural pattern.
+<p> 👉Django is a high-level Python web framework that encourages rapid development and clean, pragmatic design.
+<br> 👉 Django is a Python web framework <br> 👉It is a  open source pyhton framework. <br> 👉follow the model-view-tamplate architectural pattern.
 </p>
 
 
